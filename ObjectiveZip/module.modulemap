@@ -1,0 +1,4 @@
+module ObjectiveZip {
+    header "ObjectiveZip/Objective_Zip.h"
+    export *
+}

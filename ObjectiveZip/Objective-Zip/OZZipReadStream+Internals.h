@@ -1,5 +1,5 @@
 //
-//  OZZipWriteStream+Internals.h
+//  OZZipReadStream+Internals.h
 //  Objective-Zip v. 1.0.5
 //
 //  Created by Gianluca Bertani on 27/08/15.
@@ -31,18 +31,16 @@
 //  POSSIBILITY OF SUCH DAMAGE.
 //
 
-#import "OZZipWriteStream.h"
+#import "OZZipReadStream.h"
+#import "unzip.h"
 
-#include "zip.h"
-
-
-@interface OZZipWriteStream (Internals)
+@interface OZZipReadStream (Internals)
 
 
 #pragma mark -
 #pragma mark Initialization
 
-- (nonnull instancetype) initWithZipFileStruct:(nonnull zipFile)zipFile fileNameInZip:(nonnull NSString *)fileNameInZip;
+- (nonnull instancetype) initWithUnzFileStruct:(nonnull unzFile)unzFile fileNameInZip:(nonnull NSString *)fileNameInZip;
 
 
 @end
