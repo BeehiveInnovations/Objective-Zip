@@ -11,16 +11,8 @@
 		8C33B2C21EC6F0DA00F49381 /* crypt.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C33B2C01EC6F0CD00F49381 /* crypt.c */; };
 		8C33B2C51EC6F9AD00F49381 /* NSDate+DOSDate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C33B2C41EC6F9AD00F49381 /* NSDate+DOSDate.m */; };
 		8C33B2C61EC6F9AD00F49381 /* NSDate+DOSDate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C33B2C41EC6F9AD00F49381 /* NSDate+DOSDate.m */; };
-		8C33B2C71EC7058300F49381 /* NSDate+DOSDate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C33B2C41EC6F9AD00F49381 /* NSDate+DOSDate.m */; };
-		8C33B2C81EC7058300F49381 /* NSDate+DOSDate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C33B2C41EC6F9AD00F49381 /* NSDate+DOSDate.m */; };
 		8C33B2CB1EC7443200F49381 /* NSData+CRC32.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C33B2CA1EC7443200F49381 /* NSData+CRC32.m */; };
-		8C33B2CC1EC7443200F49381 /* NSData+CRC32.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C33B2CA1EC7443200F49381 /* NSData+CRC32.m */; };
 		8C33B2CD1EC7443200F49381 /* NSData+CRC32.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C33B2CA1EC7443200F49381 /* NSData+CRC32.m */; };
-		8C33B2CE1EC7443200F49381 /* NSData+CRC32.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C33B2CA1EC7443200F49381 /* NSData+CRC32.m */; };
-		8C33B2CF1EC747A100F49381 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C14E8181773A09F00B84597 /* Security.framework */; };
-		8C33B2D11EC747A800F49381 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C33B2D01EC747A800F49381 /* Security.framework */; };
-		8C59F3821BAEE3BC00DBB3D0 /* Objective-Zip_Swift_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C59F3811BAEE3BC00DBB3D0 /* Objective-Zip_Swift_Tests.swift */; };
-		8C59F3831BAEE3BC00DBB3D0 /* Objective-Zip_Swift_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C59F3811BAEE3BC00DBB3D0 /* Objective-Zip_Swift_Tests.swift */; };
 		8C59F39E1BAEE48600DBB3D0 /* adler32.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C59F3841BAEE48600DBB3D0 /* adler32.c */; };
 		8C59F39F1BAEE48600DBB3D0 /* adler32.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C59F3841BAEE48600DBB3D0 /* adler32.c */; };
 		8C59F3A01BAEE48600DBB3D0 /* compress.c in Sources */ = {isa = PBXBuildFile; fileRef = 8C59F3851BAEE48600DBB3D0 /* compress.c */; };
@@ -101,10 +93,6 @@
 		8C59F40A1BAEE4A100DBB3D0 /* OZZipWriteStream+Internals.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C59F3ED1BAEE4A100DBB3D0 /* OZZipWriteStream+Internals.h */; };
 		8C59F40B1BAEE4A100DBB3D0 /* OZZipWriteStream+NSError.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C59F3EE1BAEE4A100DBB3D0 /* OZZipWriteStream+NSError.h */; };
 		8C59F40C1BAEE4A100DBB3D0 /* OZZipWriteStream+Standard.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C59F3EF1BAEE4A100DBB3D0 /* OZZipWriteStream+Standard.h */; };
-		8CC2FC631B91E63E00D5E05F /* libObjective-Zip.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CC2FC581B91E63E00D5E05F /* libObjective-Zip.a */; };
-		8CC2FC7E1B91E65200D5E05F /* libObjective-Zip_OS_X.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CC2FC731B91E65200D5E05F /* libObjective-Zip_OS_X.a */; };
-		8CC2FCB91B91EB3500D5E05F /* ObjectiveZip_Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CC2FCB81B91EB3500D5E05F /* ObjectiveZip_Tests.m */; };
-		8CC2FCBA1B91EB3500D5E05F /* ObjectiveZip_Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CC2FCB81B91EB3500D5E05F /* ObjectiveZip_Tests.m */; };
 		F0F9B1C827FC4FB800E00FF4 /* OZZipCompressionLevel.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C59F3DD1BAEE4A100DBB3D0 /* OZZipCompressionLevel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F0F9B1C927FC4FB800E00FF4 /* OZZipFile+NSError.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C59F3E31BAEE4A100DBB3D0 /* OZZipFile+NSError.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F0F9B1CA27FC4FB800E00FF4 /* Objective-Zip.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C59F3D81BAEE4A100DBB3D0 /* Objective-Zip.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -169,23 +157,6 @@
 		F0F9B20627FC50AB00E00FF4 /* inflate.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C59F3941BAEE48600DBB3D0 /* inflate.h */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		8CC2FC641B91E63E00D5E05F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 8CC2FC571B91E63E00D5E05F;
-			remoteInfo = "Objective-Zip";
-		};
-		8CC2FC7F1B91E65200D5E05F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 8CC2FC721B91E65200D5E05F;
-			remoteInfo = "Objective-Zip OS X";
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		8CC2FC561B91E63E00D5E05F /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -208,9 +179,6 @@
 		8C33B2C91EC7441A00F49381 /* NSData+CRC32.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = "NSData+CRC32.h"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		8C33B2CA1EC7443200F49381 /* NSData+CRC32.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = "NSData+CRC32.m"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		8C33B2D01EC747A800F49381 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
-		8C59F37F1BAEE3BB00DBB3D0 /* Objective-Zip Tests-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Objective-Zip Tests-Bridging-Header.h"; sourceTree = "<group>"; };
-		8C59F3801BAEE3BB00DBB3D0 /* Objective-Zip OS X Tests-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Objective-Zip OS X Tests-Bridging-Header.h"; sourceTree = "<group>"; };
-		8C59F3811BAEE3BC00DBB3D0 /* Objective-Zip_Swift_Tests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = "Objective-Zip_Swift_Tests.swift"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		8C59F3841BAEE48600DBB3D0 /* adler32.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = adler32.c; sourceTree = "<group>"; };
 		8C59F3851BAEE48600DBB3D0 /* compress.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = compress.c; sourceTree = "<group>"; };
 		8C59F3861BAEE48600DBB3D0 /* crc32.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = crc32.c; sourceTree = "<group>"; };
@@ -269,11 +237,7 @@
 		8C59F3EE1BAEE4A100DBB3D0 /* OZZipWriteStream+NSError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = "OZZipWriteStream+NSError.h"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		8C59F3EF1BAEE4A100DBB3D0 /* OZZipWriteStream+Standard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = "OZZipWriteStream+Standard.h"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		8CC2FC581B91E63E00D5E05F /* libObjective-Zip.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libObjective-Zip.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8CC2FC621B91E63E00D5E05F /* Objective-Zip Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Objective-Zip Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8CC2FC681B91E63E00D5E05F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8CC2FC731B91E65200D5E05F /* libObjective-Zip_OS_X.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libObjective-Zip_OS_X.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8CC2FC7D1B91E65200D5E05F /* Objective-Zip OS X Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Objective-Zip OS X Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8CC2FCB81B91EB3500D5E05F /* ObjectiveZip_Tests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; name = ObjectiveZip_Tests.m; path = "Objective-Zip Tests/ObjectiveZip_Tests.m"; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		F0F9B1C127FC4F7300E00FF4 /* ObjectiveZip.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ObjectiveZip.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -285,28 +249,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8CC2FC5F1B91E63E00D5E05F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8C33B2CF1EC747A100F49381 /* Security.framework in Frameworks */,
-				8CC2FC631B91E63E00D5E05F /* libObjective-Zip.a in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		8CC2FC701B91E65200D5E05F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8CC2FC7A1B91E65200D5E05F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8C33B2D11EC747A800F49381 /* Security.framework in Frameworks */,
-				8CC2FC7E1B91E65200D5E05F /* libObjective-Zip_OS_X.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,9 +270,7 @@
 			isa = PBXGroup;
 			children = (
 				8CC2FC581B91E63E00D5E05F /* libObjective-Zip.a */,
-				8CC2FC621B91E63E00D5E05F /* Objective-Zip Tests.xctest */,
 				8CC2FC731B91E65200D5E05F /* libObjective-Zip_OS_X.a */,
-				8CC2FC7D1B91E65200D5E05F /* Objective-Zip OS X Tests.xctest */,
 				F0F9B1C127FC4F7300E00FF4 /* ObjectiveZip.framework */,
 			);
 			name = Products;
@@ -338,7 +282,6 @@
 				8C6D353B10E56BA400B63EFA /* Objective-Zip */,
 				8C6D350110E56A4B00B63EFA /* MiniZip */,
 				8CD8B3E817766056005212EC /* ZLib */,
-				8CC2FC661B91E63E00D5E05F /* Objective-Zip Tests */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
 				8C1D598C1771057D006D69C3 /* README.md */,
@@ -405,27 +348,6 @@
 			);
 			path = "Objective-Zip";
 			sourceTree = SOURCE_ROOT;
-		};
-		8CC2FC661B91E63E00D5E05F /* Objective-Zip Tests */ = {
-			isa = PBXGroup;
-			children = (
-				8CC2FCB81B91EB3500D5E05F /* ObjectiveZip_Tests.m */,
-				8C59F3811BAEE3BC00DBB3D0 /* Objective-Zip_Swift_Tests.swift */,
-				8C59F37F1BAEE3BB00DBB3D0 /* Objective-Zip Tests-Bridging-Header.h */,
-				8C59F3801BAEE3BB00DBB3D0 /* Objective-Zip OS X Tests-Bridging-Header.h */,
-				8CC2FC671B91E63E00D5E05F /* Supporting Files */,
-			);
-			path = "Objective-Zip Tests";
-			sourceTree = SOURCE_ROOT;
-		};
-		8CC2FC671B91E63E00D5E05F /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				8CC2FC681B91E63E00D5E05F /* Info.plist */,
-			);
-			name = "Supporting Files";
-			path = "../Objective-Zip Tests";
-			sourceTree = "<group>";
 		};
 		8CD8B3E817766056005212EC /* ZLib */ = {
 			isa = PBXGroup;
@@ -568,24 +490,6 @@
 			productReference = 8CC2FC581B91E63E00D5E05F /* libObjective-Zip.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		8CC2FC611B91E63E00D5E05F /* Objective-Zip Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 8CC2FC6C1B91E63E00D5E05F /* Build configuration list for PBXNativeTarget "Objective-Zip Tests" */;
-			buildPhases = (
-				8CC2FC5E1B91E63E00D5E05F /* Sources */,
-				8CC2FC5F1B91E63E00D5E05F /* Frameworks */,
-				8CC2FC601B91E63E00D5E05F /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				8CC2FC651B91E63E00D5E05F /* PBXTargetDependency */,
-			);
-			name = "Objective-Zip Tests";
-			productName = "Objective-ZipTests";
-			productReference = 8CC2FC621B91E63E00D5E05F /* Objective-Zip Tests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 		8CC2FC721B91E65200D5E05F /* Objective-Zip OS X */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8CC2FC841B91E65300D5E05F /* Build configuration list for PBXNativeTarget "Objective-Zip OS X" */;
@@ -602,24 +506,6 @@
 			productName = "Objective-Zip OS X";
 			productReference = 8CC2FC731B91E65200D5E05F /* libObjective-Zip_OS_X.a */;
 			productType = "com.apple.product-type.library.static";
-		};
-		8CC2FC7C1B91E65200D5E05F /* Objective-Zip OS X Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 8CC2FC871B91E65300D5E05F /* Build configuration list for PBXNativeTarget "Objective-Zip OS X Tests" */;
-			buildPhases = (
-				8CC2FC791B91E65200D5E05F /* Sources */,
-				8CC2FC7A1B91E65200D5E05F /* Frameworks */,
-				8CC2FC7B1B91E65200D5E05F /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				8CC2FC801B91E65200D5E05F /* PBXTargetDependency */,
-			);
-			name = "Objective-Zip OS X Tests";
-			productName = "Objective-Zip OS XTests";
-			productReference = 8CC2FC7D1B91E65200D5E05F /* Objective-Zip OS X Tests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		F0F9B1C027FC4F7300E00FF4 /* ObjectiveZip */ = {
 			isa = PBXNativeTarget;
@@ -651,16 +537,8 @@
 					8CC2FC571B91E63E00D5E05F = {
 						CreatedOnToolsVersion = 6.4;
 					};
-					8CC2FC611B91E63E00D5E05F = {
-						CreatedOnToolsVersion = 6.4;
-						LastSwiftMigration = 0830;
-					};
 					8CC2FC721B91E65200D5E05F = {
 						CreatedOnToolsVersion = 6.4;
-					};
-					8CC2FC7C1B91E65200D5E05F = {
-						CreatedOnToolsVersion = 6.4;
-						LastSwiftMigration = 0830;
 					};
 					F0F9B1C027FC4F7300E00FF4 = {
 						CreatedOnToolsVersion = 13.3;
@@ -684,29 +562,13 @@
 			projectRoot = "";
 			targets = (
 				8CC2FC571B91E63E00D5E05F /* Objective-Zip */,
-				8CC2FC611B91E63E00D5E05F /* Objective-Zip Tests */,
 				8CC2FC721B91E65200D5E05F /* Objective-Zip OS X */,
-				8CC2FC7C1B91E65200D5E05F /* Objective-Zip OS X Tests */,
 				F0F9B1C027FC4F7300E00FF4 /* ObjectiveZip */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8CC2FC601B91E63E00D5E05F /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8CC2FC7B1B91E65200D5E05F /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		F0F9B1BF27FC4F7300E00FF4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -767,17 +629,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8CC2FC5E1B91E63E00D5E05F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8C33B2CC1EC7443200F49381 /* NSData+CRC32.m in Sources */,
-				8C33B2C71EC7058300F49381 /* NSDate+DOSDate.m in Sources */,
-				8CC2FCB91B91EB3500D5E05F /* ObjectiveZip_Tests.m in Sources */,
-				8C59F3821BAEE3BC00DBB3D0 /* Objective-Zip_Swift_Tests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		8CC2FC6F1B91E65200D5E05F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -808,17 +659,6 @@
 				8C59F3B21BAEE48600DBB3D0 /* infback.c in Sources */,
 				8C59F3A11BAEE48600DBB3D0 /* compress.c in Sources */,
 				8C59F3B41BAEE48600DBB3D0 /* inffast.c in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8CC2FC791B91E65200D5E05F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8C33B2CE1EC7443200F49381 /* NSData+CRC32.m in Sources */,
-				8C33B2C81EC7058300F49381 /* NSDate+DOSDate.m in Sources */,
-				8CC2FCBA1B91EB3500D5E05F /* ObjectiveZip_Tests.m in Sources */,
-				8C59F3831BAEE3BC00DBB3D0 /* Objective-Zip_Swift_Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -856,19 +696,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		8CC2FC651B91E63E00D5E05F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 8CC2FC571B91E63E00D5E05F /* Objective-Zip */;
-			targetProxy = 8CC2FC641B91E63E00D5E05F /* PBXContainerItemProxy */;
-		};
-		8CC2FC801B91E65200D5E05F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 8CC2FC721B91E65200D5E05F /* Objective-Zip OS X */;
-			targetProxy = 8CC2FC7F1B91E65200D5E05F /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		29EF1F982802129E00C2060E /* Test */ = {
@@ -937,48 +764,6 @@
 			};
 			name = Test;
 		};
-		29EF1F9A2802129E00C2060E /* Test */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				INFOPLIST_FILE = "Objective-Zip Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flyingdolphinstudio.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "Objective-Zip Tests/Objective-Zip Tests-Bridging-Header.h";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Test;
-		};
 		29EF1F9B2802129E00C2060E /* Test */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1012,48 +797,6 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "Objective-Zip_OS_X";
 				SDKROOT = macosx;
-			};
-			name = Test;
-		};
-		29EF1F9C2802129E00C2060E /* Test */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COMBINE_HIDPI_IMAGES = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(DEVELOPER_FRAMEWORKS_DIR)",
-					"$(inherited)",
-				);
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				INFOPLIST_FILE = "Objective-Zip Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flyingdolphinstudio.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-				SWIFT_OBJC_BRIDGING_HEADER = "Objective-Zip Tests/Objective-Zip OS X Tests-Bridging-Header.h";
 			};
 			name = Test;
 		};
@@ -1190,96 +933,6 @@
 			};
 			name = Release;
 		};
-		8CC2FC6D1B91E63E00D5E05F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				INFOPLIST_FILE = "Objective-Zip Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flyingdolphinstudio.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "Objective-Zip Tests/Objective-Zip Tests-Bridging-Header.h";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-			};
-			name = Debug;
-		};
-		8CC2FC6E1B91E63E00D5E05F /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				INFOPLIST_FILE = "Objective-Zip Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flyingdolphinstudio.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "Objective-Zip Tests/Objective-Zip Tests-Bridging-Header.h";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
 		8CC2FC851B91E65300D5E05F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1355,97 +1008,6 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "Objective-Zip_OS_X";
 				SDKROOT = macosx;
-			};
-			name = Release;
-		};
-		8CC2FC881B91E65300D5E05F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COMBINE_HIDPI_IMAGES = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(DEVELOPER_FRAMEWORKS_DIR)",
-					"$(inherited)",
-				);
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				INFOPLIST_FILE = "Objective-Zip Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flyingdolphinstudio.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-				SWIFT_OBJC_BRIDGING_HEADER = "Objective-Zip Tests/Objective-Zip OS X Tests-Bridging-Header.h";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-			};
-			name = Debug;
-		};
-		8CC2FC891B91E65300D5E05F /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COMBINE_HIDPI_IMAGES = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(DEVELOPER_FRAMEWORKS_DIR)",
-					"$(inherited)",
-				);
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				INFOPLIST_FILE = "Objective-Zip Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flyingdolphinstudio.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-				SWIFT_OBJC_BRIDGING_HEADER = "Objective-Zip Tests/Objective-Zip OS X Tests-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -1692,48 +1254,6 @@
 			};
 			name = Beta;
 		};
-		F0FF69682803EC31009C072E /* Beta */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				INFOPLIST_FILE = "Objective-Zip Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flyingdolphinstudio.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "Objective-Zip Tests/Objective-Zip Tests-Bridging-Header.h";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Beta;
-		};
 		F0FF69692803EC31009C072E /* Beta */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1767,48 +1287,6 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "Objective-Zip_OS_X";
 				SDKROOT = macosx;
-			};
-			name = Beta;
-		};
-		F0FF696A2803EC31009C072E /* Beta */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COMBINE_HIDPI_IMAGES = YES;
-				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				ENABLE_NS_ASSERTIONS = NO;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(DEVELOPER_FRAMEWORKS_DIR)",
-					"$(inherited)",
-				);
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				INFOPLIST_FILE = "Objective-Zip Tests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.flyingdolphinstudio.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-				SWIFT_OBJC_BRIDGING_HEADER = "Objective-Zip Tests/Objective-Zip OS X Tests-Bridging-Header.h";
 			};
 			name = Beta;
 		};
@@ -1882,17 +1360,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8CC2FC6C1B91E63E00D5E05F /* Build configuration list for PBXNativeTarget "Objective-Zip Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8CC2FC6D1B91E63E00D5E05F /* Debug */,
-				8CC2FC6E1B91E63E00D5E05F /* Release */,
-				F0FF69682803EC31009C072E /* Beta */,
-				29EF1F9A2802129E00C2060E /* Test */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		8CC2FC841B91E65300D5E05F /* Build configuration list for PBXNativeTarget "Objective-Zip OS X" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1900,17 +1367,6 @@
 				8CC2FC861B91E65300D5E05F /* Release */,
 				F0FF69692803EC31009C072E /* Beta */,
 				29EF1F9B2802129E00C2060E /* Test */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		8CC2FC871B91E65300D5E05F /* Build configuration list for PBXNativeTarget "Objective-Zip OS X Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				8CC2FC881B91E65300D5E05F /* Debug */,
-				8CC2FC891B91E65300D5E05F /* Release */,
-				F0FF696A2803EC31009C072E /* Beta */,
-				29EF1F9C2802129E00C2060E /* Test */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
